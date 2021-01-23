@@ -51,9 +51,11 @@ color:white;
   padding:1rem;
   display: block;
 }
-.videoBar source{
-  width:200px;
-  height: 100px;
+.videoBar video{
+  margin:0px;
+  padding:0px;
+  width:1500px;
+  height: 700px;
 }
 a:hover{
   background-color:blue;
